@@ -7,3 +7,124 @@ Restaurant_Details JSON Schema
      "restaurantImg": "https://imgmediagumlet.lbb.in/media/2019/04/5ca1aabfef1e3c35d64a480d_1554098879139.jpg?w=750&h=500&dpr=1",
      "restaurantAddress": "257/1/1-A, Near Raj Laxmi Petrol Pump, Phase 2 Road, Hinjewadi, Pune"
 }
+[10:21 AM] Manne Jyothsna
+    
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "McDonald's",
+
+
+     "restaurantSpeciality":" Burgers, Fries & Shakes",
+
+
+     "restaurantImg": "https://www.foodbusinessnews.net/ext/resources/2019/10/McDonaldsPLTMeal_Lead.jpg?1571842463",
+
+
+     "restaurantAddress": " Door 5a 1, 1, NH 16 Service Rd, opposite Executive Club, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008"
+
+
+ }
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "KFC",
+
+
+     "restaurantSpeciality":" Buckets of fried chicken",
+
+
+     "restaurantImg": "https://www.zmonline.com/media/19082691/menu_catering_mobile.jpg?mode=crop&width=620&height=349&quality=60&scale=both",
+
+
+     "restaurantAddress": "  Door 42 / 1 / 52D and 52E, MG Rd, Moghalrajpuram, Labbipet, Vijayawada, Andhra Pradesh 520010"
+
+
+ }
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "Tamarind",
+
+
+     "restaurantSpeciality":"Andhra Spices,Italian ",
+
+
+     "restaurantImg": "https://www.shutterstock.com/image-photo/dal-makhani-daal-makhni-popular-indian-419218903",
+"restaurantAddress": "opposite NTR Health University,Vijayawada"
+
+ }
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "Sweet Magic",
+
+
+     "restaurantSpeciality":"Starters,Italian ",
+
+
+     "restaurantImg": "https://www.shutterstock.com/image-vector/colorful-vector-hand-drawn-set-fast-497160337",
+"restaurantAddress": "Eluru Road,Vijayawada"
+
+ }
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "Silver Spoon",
+
+     "restaurantSpeciality":"Biryanis,Rotis",
+
+
+     "restaurantImg": "https://www.istockphoto.com/photo/authentic-chicken-biryani-with-onion-raita-gm516401834-88980059",
+"retsaurantAddress": "Bharathi Nagar,Vijayawada"
+
+{
+
+
+     "restaurantId": 0,
+
+
+     "restaurantName": "Silver Spoon",
+
+
+     "restaurantSpeciality":"Andhra Spices,Italian ",
+
+
+     "restaurantImg": "https://www.istockphoto.com/photo/indian-chicken-biryani-served-in-a-terracotta-bowl-with-yogurt-over-white-background-gm979891994-266234235",
+"restaurantAddress": "Guru Nanak Colony,Vijayawada"
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
